@@ -1,3 +1,5 @@
 Texte initial de mon premier fichier
 
 Au cours de mon projet, je serais ammené a modifier mes fichiers.
+
+Ce projet touche a sa fin.
